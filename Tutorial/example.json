@@ -1,0 +1,66 @@
+// 20180908180756
+// https://randomuser.me/api/
+
+{
+    "results":
+        Array[1][
+            {
+                "gender": "male",
+                "name": {
+                    "title": "monsieur",
+                    "first": "alfonso",
+                    "last": "durand"
+                },
+                "location": {
+                    "street": "4021 rue des abbesses",
+                    "city": "langenbruck",
+                    "state": "aargau",
+                    "postcode": 6987,
+                    "coordinates": {
+                        "latitude": "-51.4401",
+                        "longitude": "-34.1587"
+                    },
+                    "timezone": {
+                        "offset": "-12:00",
+                        "description": "Eniwetok, Kwajalein"
+                    }
+                },
+                "email": "alfonso.durand@example.com",
+                "Login": {
+                    "uuid": "0406b707-03dd-495c-86fd-d915adbd1c10",
+                    "username": "whiteswan834",
+                    "password": "gordon",
+                    "salt": "aoY1KuWV",
+                    "md5": "edc4c4038fc14e9bbb5cf5524f238376",
+                    "sha1": "d860fc9814768b3d7dd1e54655998176ec2697dc",
+                    "sha256": "804fd86c40d8d7ad7710b17bfbec3706385a4134f382cf8c30aa3dbf83a4e20d"
+                },
+                "dob": {
+                    "date": "1976-11-30T22:31:12Z",
+                    "age": 41
+                },
+                "registered": {
+                    "date": "2003-11-26T19:07:04Z",
+                    "age": 14
+                },
+                "phone": "(868)-171-0562",
+                "cell": "(773)-215-2911",
+                "id": {
+                    "Name": "AVS",
+                    "value": "756.8086.0002.52"
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/33.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+                },
+                "nat": "CH"
+            }
+        ],
+    "info": {
+        "seed": "e6dee461999c48c0",
+        "results": 1,
+        "page": 1,
+        "version": "1.2"
+    }
+}

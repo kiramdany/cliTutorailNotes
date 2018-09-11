@@ -1,4 +1,4 @@
-### [Let's Get Started](Tutorial/Intro.md)
+### [Click here to start the tutorial](Tutorial/Intro.md)
 
 Basic introduction to fundamental uses of command line.
 

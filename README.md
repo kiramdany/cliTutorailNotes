@@ -1,5 +1,7 @@
 ### [Click here to start the tutorial](Tutorial/Intro.md)
 
+[![Join the chat at https://gitter.im/cliTutorialNotes/Lobby](https://badges.gitter.im/cliTutorialNotes/Lobby.svg)](https://gitter.im/cliTutorialNotes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Basic introduction to fundamental uses of command line.
 
 Written primarily with Mac in mind. Should make sense on other platforms but be aware there may be discrepancies.

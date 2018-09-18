@@ -18,7 +18,7 @@ However, they can also be followed without.
 
 Notes are fairly brief and to the point so if teachers want to fill in extra context there are some [additional teachers notes](TeachersNotes/README.md) for ideas.
 
-You can view all the notes within GitHub itself or download a local copy and use a markdown reader. I like [json-viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh).
+You can view all the notes within GitHub itself or download a local copy and use a markdown reader. I like [markdown viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) and enabling local file access following these [instructions](https://github.com/simov/markdown-viewer#local-files)
 
 ## Issues and Ideas
 

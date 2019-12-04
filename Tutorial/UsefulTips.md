@@ -30,7 +30,7 @@
 -   `open http://some.url` ( Some browser )
 -   `open directory` ( Finder )
 
-## Application launchers
+## Application launchers
 
 Some applications allow you to create command line launchers, some install them automatically
 
@@ -53,7 +53,7 @@ Can test whether you already have them with
 
 -   `type` {command} - command being `atom` or `stree` for example
 
-## ctrl + c
+## ctrl + c
 
 Cancel running task
 

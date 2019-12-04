@@ -43,7 +43,7 @@ _Try it out_
 -   `rmdir "This is a test folder"`
 -   remove all other directories in one command
 
-## touch ( create file )
+## touch ( create file )
 
 Creates file with specified name if doesn't exist
 
@@ -127,7 +127,7 @@ _Try it out_
 -   `mv -i file file2` ( this will prompt if it would cause an overwrite - press `n` )
 -   `mv -i file file1` ( no prompt as 2 doesn't exist )
 
-## cp (copy)
+## cp (copy)
 
 ### copy files
 
@@ -190,7 +190,7 @@ _Try it out_
 
 This is the same when copying folders so be careful!
 
-## rm -r (remove folder and contents)
+## rm -r (remove folder and contents)
 
 _Try_
 
